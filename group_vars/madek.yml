@@ -4,7 +4,7 @@ zencoder_enabled: false
 # zencoder_test_mode: True
 
 # backups
-# db_backups_enabled: False
+db_backups_enabled: True # dumps the databse daily
 
 # branding
 madek_site_title: "Media Archive"
